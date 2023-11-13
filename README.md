@@ -12,6 +12,6 @@ SEARCH_FRAME(선택 리스트 위치, 검색창 위치, 리스트/투플 형태�
 ### 빌트인
 - functools
 ## 작동 예시
-! [작동 이미지 1](assets/image1.png)
-! [작동 이미지 1](assets/image2.png)
-! [작동 이미지 1](assets/image3.png)
+![작동 이미지 1](assets/image1.png)
+![작동 이미지 1](assets/image2.png)
+![작동 이미지 1](assets/image3.png)
