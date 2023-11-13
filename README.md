@@ -12,4 +12,4 @@ SEARCH_FRAME(선택 리스트 위치, 검색창 위치, 리스트/투플 형태�
 ### 빌트인
 - functools
 ## 작동 예시
-!([Screenshot 2023-11-13 152930.png](https://github.com/bug4tti16/tkinter-search-korean/blob/23bbcd2057c1815c0970f3875e5421c1c07b34bd/Screenshot%202023-11-13%20152930.png)https://github.com/bug4tti16/tkinter-search-korean/blob/23bbcd2057c1815c0970f3875e5421c1c07b34bd/Screenshot%202023-11-13%20152930.png)
+![작동 이미지 1]([Screenshot 2023-11-13 152930.png](https://github.com/bug4tti16/tkinter-search-korean/blob/23bbcd2057c1815c0970f3875e5421c1c07b34bd/Screenshot%202023-11-13%20152930.png)https://github.com/bug4tti16/tkinter-search-korean/blob/23bbcd2057c1815c0970f3875e5421c1c07b34bd/Screenshot%202023-11-13%20152930.png)
